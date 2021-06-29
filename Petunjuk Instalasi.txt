@@ -1,0 +1,15 @@
+Aplikasi Pengaduan Masyarakat
+
+1. Buatlah Database terlebih dahulu dengan nama "pengaduan_db" diMysql.
+2. Import file pengaduan.sql ke Database yang anda buat (Versi Mysql 4.8.5).
+3. jika sudah, Buka programnya.
+4. Selesai :)
+
+Akun Admin:
+username: admin
+password: admin
+
+Akun Masyarakat:
+Bisa di daftarkan sendiri
+
+SEMOGA BERMANFAAT :)
